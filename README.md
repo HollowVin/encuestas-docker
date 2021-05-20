@@ -2,10 +2,10 @@ Docker image based off of [rocker-shiny](https://github.com/rocker-org/shiny) fo
 
 To clone the encuestas project when in the project's repository:
 
-`
+```
 $ cd project
 $ git clone https://github.com/HollowVin/encuestas
-`
+```
 
 To build the container:
 
